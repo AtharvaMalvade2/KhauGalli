@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🍔 KhauGalli - Full Stack Online Food App
 
 A powerful and responsive food ordering platform. This project features a **Spring Boot** backend for business logic and a **React.js** frontend for a modern user experience.
@@ -42,9 +42,11 @@ A powerful and responsive food ordering platform. This project features a **Spri
    cd BackendOnlineFood
 
 2. Configure your database in src/main/resources/application.properties.
-Run the application:
-```bash
-mvn spring-boot:run
+   Run the application:
+   ```bash
+   mvn spring-boot:run
+
+Open http://localhost/your-project-folder/ in a browser.
 
 
 ## 🛫 Deployment
@@ -82,6 +84,3 @@ Atharva Malvade
 🔗 Portfolio
 📧 Email
 📌 GitHub
-=======
-# KhauGalli
->>>>>>> dc51c172cd6fb0d10c362a9ebf5021572e7b34ab
