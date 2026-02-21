@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@500..900&display=swap');
+
+li{
+    list-style: none;
+    font-family: "Bitcount Grid Double", system-ui;
+}
+
+.logo{
+    font-family: 'Playball', cursive;
+    
+/* font-family: 'Playball', cursive; */
+/* font-family: 'Poppins', sans-serif; */
+}
